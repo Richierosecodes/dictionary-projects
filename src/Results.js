@@ -10,10 +10,8 @@ export default function Results(props) {
                 <div className = "Results">
                     <section>
                 <h2>{props.results.word}</h2>
-                <Phonetic phonetic = {Phonetic} />
-            
-
-            
+                <Phonetic phonetic={Phonetic} />
+                
                 
                 
                
