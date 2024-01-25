@@ -1,0 +1,9 @@
+.Phonetic {
+    color: white;
+    background-color:  #432cb6;
+}
+
+.Phonetic:hover {
+    color:  #432cb6;
+    background-color: white;
+}
